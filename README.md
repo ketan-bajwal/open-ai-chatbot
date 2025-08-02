@@ -1,6 +1,6 @@
 # OpenAI Chat Bot Project
 
-A full-stack chat bot application inspired by ChatGPT.
+A full-stack chat bot application using open AI.
 
 ---
 
